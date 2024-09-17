@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ApiMoviesApplication",
+            "request": "launch",
+            "mainClass": "es.ndc.api_movies.ApiMoviesApplication",
+            "projectName": "api-movies"
+        },
+        {}
+    ]
+}
